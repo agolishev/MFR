@@ -9,3 +9,8 @@
 3. Three
 
 Getting used with *GitHub*!
+
+### Playing with Git functions in VS
+* commit 1
+* commit 2
+* commit 3
