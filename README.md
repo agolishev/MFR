@@ -1,2 +1,2 @@
 # MFR
-My fierst repository on GitHub!
+My first repository on GitHub!
