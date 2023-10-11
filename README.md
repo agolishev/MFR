@@ -1,6 +1,6 @@
-#My **first** repository on GitHub!
+# My **first** repository on GitHub!
 
-#Trying to learn new stuff for me
+## Trying to learn new stuff for me
 * One
 * Two
 * Three
